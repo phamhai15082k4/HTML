@@ -1,0 +1,66 @@
+*{
+    margin:0 auto;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(/cat-sunglasses-gangster-digital-art-animal-4k-wallpaper-uhdpaper.com-241@0@j.jpg);
+    background-size: cover;
+}
+.wrapper{
+    width: 80%;
+}
+.header{
+    background: rgb(77, 224, 89);
+    color:aliceblue;
+    padding: 20px;
+    text-align: center;
+
+}
+.container{
+    display:flex;
+    min-height: 300px;
+
+}
+.left{
+    flex-basis: 20%;/*width*/ 
+    background-color: bisque;
+}
+.center{
+    background: white;
+    flex-basis: 60%;
+    text-align: center;
+}
+.right{
+    flex-basis: 20%;
+    background-color: bisque;
+}
+.footer{
+    background-color: gray;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    width:100%;
+    
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+h3{
+    text-align: center;
+    background:rgb(241, 231, 83);
+    border: 1px black solid;
+}
+li{
+    width:100%;
+    background: rgb(131, 224, 220);
+    color:antiquewhite;
+    padding: 30px 30px;
+    width:100%;
+    border: 1px black solid;
+
+}
+h1{
+    border: 1px black solid;
+}

@@ -1,0 +1,36 @@
+* {
+    margin: 0 auto;
+    padding: 0 ;
+    color: white;
+}
+body{background-image: url(img/Moon.jpg);
+    background-size:cover;}
+.NoiDung {
+    width: 1000px;
+    height: 500px;
+    text-align: center;
+    padding: 80px 0 44px;
+}
+.NoiDung h2{
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+.Chitiet h2{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+a{
+    display: inline-block;
+    background: orange;
+    text-decoration: none ;
+    padding: 16px 14px;
+    font-size: 18px;
+    border-radius: 10px;
+    color: black;
+}
+a:hover{
+    opacity:0.6;
+}
+
+
+
